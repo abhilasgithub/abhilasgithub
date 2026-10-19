@@ -3,7 +3,9 @@
 
 # Hi, I'm Abhilash Akasam 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Python+Developer;Generative+AI+%26+RAG+Enthusiast;Building+Practical+AI+Solutions" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI%2FML+Engineer;Python+Developer;Generative+AI+%26+RAG+Engineer" alt="Typing SVG" />
+
 
 </div>
 
